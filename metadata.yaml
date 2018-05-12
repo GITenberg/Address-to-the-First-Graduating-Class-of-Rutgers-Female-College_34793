@@ -1,0 +1,30 @@
+_repo: Address-to-the-First-Graduating-Class-of-Rutgers-Female-College_34793
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pierce, Henry M. (Henry Miller)
+    alias: Pierce, H. M. (Henry Miller)
+    birthdate: 1831
+    deathdate: 1902
+    gutenberg_agent_id: '37234'
+    url: http://www.gutenberg.org/2009/agents/37234
+description: ''
+gutenberg_issued: '2010-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34793'
+  lccn: '10034570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LC'
+- !lcsh 'Women -- Education'
+- !lcc 'HQ'
+- !lcsh 'Rutgers Female College (New York, N.Y.)'
+title: Address to the First Graduating Class of Rutgers Female College
+url: http://www.gutenberg.org/ebooks/34793
